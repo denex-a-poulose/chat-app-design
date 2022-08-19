@@ -3,6 +3,17 @@
 This is a simple design for chat applications . This is designed with **CSS**. To design chat bubbles **CSS Pseudo-elements**  was used.
 
 ---
+## **Repository Structure**
+
+```
+├──README file
+├──PAGE
+|   └─── html file
+├───styles                     
+     └─── css file
+ ```
+
+
 
 New features will upload soon ,like send messages , delete messages etc,..!  
 
